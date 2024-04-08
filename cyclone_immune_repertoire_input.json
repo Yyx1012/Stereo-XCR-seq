@@ -1,0 +1,15 @@
+{
+  "cyclone_immune_repertoire_v1.SampleID": "sampleID",
+  "cyclone_immune_repertoire_v1.species": "mmu",
+  "cyclone_immune_repertoire_v1.MixcrAlign.chain": "TRA\TRB\IGH\IGL\IGK",
+  "cyclone_immune_repertoire_v1.Cyclone_fastq": "./demo.fastq.gz",
+  "cyclone_immune_repertoire_v1.BarcodeWhiteList": "./demo.csv.gz",
+  "cyclone_immune_repertoire_v1.BarcodeIndex": "./demo.pkl",
+  "cyclone_immune_repertoire_v1.Outdir": "./out",
+  "cyclone_immune_repertoire_v1.Kmer": "5",
+  "cyclone_immune_repertoire_v1.OminimalQuality": "5",
+  "cyclone_immune_repertoire_v1.Chunk_size": "50000",
+  "cyclone_immune_repertoire_v1.ANN": "10000",
+  "cyclone_immune_repertoire_v1.BarocdeMap.cpu": "4",
+  "cyclone_immune_repertoire_v1.DryRun": "True"
+}
